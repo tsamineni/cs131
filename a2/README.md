@@ -6,7 +6,7 @@ How you can use this command:
  You can use this command by calling it and the name of a directory you wish to see.
 Examples:
 
-I made a test directory with three files in it, file1.txt, file2.txt,and file3.txt. each of the files had a different word.
+I made a test directory with three files in it, file1.txt, file2.txt, and file3.txt. each of the files had a different word.
 I ran the command using ./filesize ./test
 
 The results showed
